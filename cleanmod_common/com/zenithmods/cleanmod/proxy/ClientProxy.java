@@ -1,4 +1,4 @@
-package zenith.mods.feruchemy.proxy;
+package com.zenithmods.cleanmod.proxy;
 
 public class ClientProxy extends CommonProxy {
 
